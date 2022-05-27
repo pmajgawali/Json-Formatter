@@ -1,0 +1,16 @@
+textarea {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.output:hover {
+    background-color:#f5f5f5;
+    cursor: pointer;
+}
+
+#copy-message {
+    display: none;
+}
+
+#error-message {
+    display: none;
+}
